@@ -536,4 +536,4 @@ def main():
         print(f'- {tarefa}')  # Imprime cada tarefa do projeto de mercado
 
 if __name__ == "__main__":
-    main()  # Chama a função principal quando o script é executado diretamente
+    main()  # Chama a função principal quando o script é executado diretamente  
